@@ -4,6 +4,5 @@ table,th,td{
 	background: yellow
 }
 thead{
-
-	position: center
+	text-align: center
 }
